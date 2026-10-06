@@ -1,8 +1,8 @@
 # Family Clinic Dashboard
 
 **Deployed base**: https://<your-app>.vercel.app
-**Repo**: https://github.com/<you>/<repo>
-**Student**: <your name>
+**Repo**: https://github.com/Jamesteams12/superbase-RLS
+**Student**: Tj
 
 ## 1. Domain
 A small family practice with one owner and two front-desk staff.
